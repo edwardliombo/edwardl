@@ -1,0 +1,12 @@
+p{
+    background: red;
+    width: 450px;
+    text-align: justify;
+}
+div{
+    background: red;
+    width: 450px;
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+}
